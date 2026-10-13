@@ -25,5 +25,5 @@ petdex 桌面宠物静态资源包，提供符合 petdex 精灵图规范的宠�
 ## 来源与许可
 
 - 所有形象由 gpt-image-2.5-sunburst 绘制。
-- 所有形象基于 [B 站动态](https://www.bilibili.com/opus/1233069202138464289) 的非商业化二创。
-- 全部开源。
+- 所有形象基于B站up[ZipZipPipe](https://www.bilibili.com/opus/1233069202138464289) 的非商业化二创。
+- 依CC BY-NC-SA 4.0非商业使用，二创同协议授权。
