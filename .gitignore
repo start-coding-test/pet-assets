@@ -1,0 +1,7 @@
+# 仅发布 final 产物，其余为本地中间材料
+
+canonical-base.png
+raw/
+frames/
+layout/
+qa/
